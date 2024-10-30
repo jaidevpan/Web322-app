@@ -21,7 +21,7 @@ nav a {
 }
 
 nav a:hover {
-    background-color: #0056b3; /* Darken link background on hover */
+    background-color: #17a2b8; /* Darken link background on hover */
     border-radius: 4px; /* Smooth border around links */
 }
 
